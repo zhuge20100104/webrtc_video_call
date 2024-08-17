@@ -1,0 +1,17 @@
+{
+  "name": "webrtc_video_call",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Fredric Zhu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^3.1.4",
+    "socket.io": "^4.1.1"
+  }
+}
